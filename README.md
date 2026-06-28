@@ -1,1 +1,1 @@
-# AIEngg-Java-SpringAIChatDemo
+# AIEngg-Java-SpringAI
